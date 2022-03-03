@@ -22,15 +22,15 @@
 
 - BCv14 App - The SD BI Sales Cockpit User Role Centre and the SD BI Sales Cockpit Manager Role Centre were removed from the Tell Me.
 
-- A typo on a field in the SD BI Sales Cockpit Setup Card was corrected.
+- BCv14 App - A typo on a field in the SD BI Sales Cockpit Setup Card was corrected.
 
-- A change was made to the Role Description for the product.
+- BCv14 App - A change was made to the Role Description for the product.
 
-- The object names were updated to reflect the new name of the product.
+- BCv14 App - The object names were updated to reflect the new name of the product.
 
-- The Actions in the SD BI Setup Card were changed to be consistent with our other ISV Products.
+- BCv14 App - The Actions in the SD BI Setup Card were changed to be consistent with our other ISV Products.
 
-- The name of the product that was displaying in the standard NAV App Setting page was updated.
+- BCv14 App - The name of the product that was displaying in the standard NAV App Setting page was updated.
 
 - BCv14 App - Permission sets were added to the product. 
 
