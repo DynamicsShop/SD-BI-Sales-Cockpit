@@ -1,5 +1,65 @@
 ## SD BI Sales Cockpit Releases
 
+### 3.3.0
+
+#### Enhancements
+
+- BCv20 App - The Product Activation page was updated to point to the new Subscription URL. 
+
+- BCv20 App - The Quote No. was surfaced in the Sales Cycle List so users can easily tell from the Sales Cockpit the Quote No. that was converted to the Order. 
+
+- BCv20 App - A link to the Sales & Receivables Setup was surfaced in the SD BI Sales Cockpit Setup to allow users easy access to switching on Archiving of Quotes and Orders. 
+
+- BCv20 App - The Assisted Setup action was removed from the SD BI Sales Cockpit Setup card as we are not bringing in default setup. 
+
+- BCv20 App - A change was made to the navigation logic in the Customer Alerts page. If the user was in the Customer Alerts page and chooses another View from the Views Factbox, the back arrow did not bring the user back to the SD BI Sales Cockpit Role Centre but brought the user back to the previous view. 
+
+- BCv20 App - In the Page Filters action cue on the SD BI Sales Cockpit Role Centres, a blank value is now allowed in the Customer No. to show values for all customers. 
+
+- BCv20 App - The codeunit lookups for Cliff Reports, Sayles Cycle and Salesperson Sales in the SD BI Sales Cockpit Setup card were replaced with Interfaces using Enum values. 
+
+- BCv20 App - Objects were renamed to our ISV standards. 
+
+- BCv20 App - Some actions were missing from the SD BI Sales Cockpit Setup Card. These actions were resurfaced on the menu. 
+
+- BCv20 App - Permission extension objects were created for the SD BI Sales Cockpit permission sets. 
+
+- BCv20 App - The code and logic behind turning on the Sales Cockpit Enabled flag was reworked. 
+
+- BCv20 App - Various layout changes were made to the SD BI Sales Cockpit Customer Alerts card. 
+
+- BCv20 App - Changes were made to the Cliff Report Codeunit to publish an event OnAfterFilterItemLedger for use if users want to filter results on specific criteria. 
+
+- BCv20 App - A Force Salesperson Filter was added to the SD BI Sales Cockpit Setup card. Switching this flag on limits the cues in the Activity Panel of the SD BI Sales Cockpit User Role Centre to the Salesperson Code of the currently logged in user. 
+
+- BCv20 App - Changes were made to the Page Filters on the cues in the SD BI Sales Cockpit Activity pages. 
+
+- BCv20 App - The names of the SD BI Sales Cockpit objects were updated to our standard ISV naming conventions. 
+
+- BCv20 App - The latest ISV Licence Controller was added to the product. 
+
+- BCv20 App - A test app was created for AppSource submission. 
+
+- BCv20 App - Tooltips were added to the product. 
+
+- BCv20 App - The Links in the About Page were updated to point to our new website. 
+
+- BCv20 App - The Latest Version of the product and the AppSource URL were added to the About Page. 
+
+- BCv20 App - Tooltips were updated to point to our new website. 
+
+- BCv20 App - Changes were made to the filtering applied on the cues in the SD BI Sales Cockpit Activity pages. 
+
+- BCv20 App - The HTTPClient Request boolean for SD BI Sales Cockpit is switched on by default on install of the product. 
+
+#### Bug Fixes
+
+- BCv20 App - Fixed an error that was raised when running the SDY BICS Job Queue. 
+
+- BCv20 App - An issue was fixed where when setting a view as the default view, if a different view is already marked as default, an error was raised that the record already existed. Users were then prompted with further messages and entered into a message loop. 
+
+- BCv20 App - The Product Activation page was updated to disable the Activate button unless the Product Key is filled in. 
+
 ### 3.2.0
 
 #### Enhancements
