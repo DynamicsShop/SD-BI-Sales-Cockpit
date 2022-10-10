@@ -60,6 +60,17 @@
 
 - BCv20 App - The Product Activation page was updated to disable the Activate button unless the Product Key is filled in. 
 
+### 3.2.1
+
+#### Enhancements
+
+- BCv14 App - The processing performance of the Sales Cycle Routine was improved. This change was made to the BCv14 v3.2.0 release of SD BI Sales Cockpit only and not to any future versions and was released as BCv14 v3.2.1.
+- BCv14 App - A page was created to display all Simply Dynamics Apps and Subscription details for the tenant. This change was made to the BCv14 v3.2.0 release of SD BI Sales Cockpit only and not to any future versions and was released as BCv14 v3.2.1.
+- BCv14 App - Update the ISV Licence Controller Expiry Message to display the App Name. This change was made to the BCv14 v3.2.0 release of SD BI Sales Cockpit only and not to any future versions and was released as BCv14 v3.2.1.
+
+#### Bug Fixes
+- BCv14 App - The code for licence key checks on the SD BI Sales Cockpit Roler was reviewed. This change was made to the BCv14 v3.2.0 release of SD BI Sales Cockpit only and not to any future versions and was released as BCv14 v3.2.1.
+
 ### 3.2.0
 
 #### Enhancements
