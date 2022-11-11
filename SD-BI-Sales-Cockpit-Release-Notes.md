@@ -1,5 +1,21 @@
 ## SD BI Sales Cockpit Releases
 
+### 3.3.1
+
+#### Enhancements
+
+- BCv21 App - The processing performance of the Sales Cycle Routine was improved. 
+
+- BCv21 App - A page was created to display all the Simply Dynamics Apps and subscription details for the tenant.
+
+- BCv21 App - The Licence Expiry message/notification was updated to display the App Name in the message.
+
+- BCv21 App - The Licence Message on first install of the App was updated to prompt the user to activate a Free Trial.
+
+#### Bug Fixes
+
+- BCv21 App - A fix was made to the code for licence key checks on the SD BI Sales Cockpit. 
+
 ### 3.3.0
 
 #### Enhancements
