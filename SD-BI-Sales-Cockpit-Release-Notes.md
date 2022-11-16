@@ -16,7 +16,7 @@
 
 #### Bug Fixes
 
-- BCv21 App - A fix was made to the code for licence key checks on the SD BI Sales Cockpit. 
+- BCv21 App - A fix was made to the code for licence key checks on the SD BI Sales Cockpit Role Centre. 
 
 ### 3.3.0
 
