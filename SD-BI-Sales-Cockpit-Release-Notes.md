@@ -12,6 +12,8 @@
 
 - BCv21 App - The Licence Message on first install of the App was updated to prompt the user to activate a Free Trial.
 
+- BCv21 App - The AppSource Submission required the removal of Customer/Item Sales Report for regions CA and US. The report was removed from the App.
+
 #### Bug Fixes
 
 - BCv21 App - A fix was made to the code for licence key checks on the SD BI Sales Cockpit. 
