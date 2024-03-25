@@ -1,5 +1,11 @@
 ## SD BI Sales Cockpit Releases
 
+### 3.3.3
+
+#### Enhancements
+
+- AppSource App - The Power BI Report FactBox was removed from the Role Centre.
+
 ### 3.3.2
 
 #### Enhancements
