@@ -22,6 +22,10 @@
 
 - AppSource App - The new functionality was added to the licence controller check.
 
+- AppSource App - The Links in the About Page were updated.
+
+- AppSource App - The logo in App was updated to the new logo.
+
 ### 3.3.3
 
 #### Enhancements
