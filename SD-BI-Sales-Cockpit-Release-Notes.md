@@ -1,5 +1,27 @@
 ## SD BI Sales Cockpit Releases
 
+### 4.0.0
+
+#### Enhancements
+
+- AppSource App - Functionality was added to the SD BI Sales Cockpit to flag customers as new or established determined by a Sales Period length and Dimension Codes and Values on the Customer Templates.
+
+- AppSource App - The Customer Templates were extended to create new Dimension Codes and Values and a Sales Period field. These fields are stamped on an extension of the Customer Card when a Customer is created using the Template.
+
+- AppSource App - A new table Customer Lifecycle Log was created to store the Customer code by Status, Created Date, First Sale Date, and Established Date.
+
+- AppSource App - The first sales date and item status is stamped on the Customer Lifecycle Log when the Refresh action on the Sales Cockpit Role Centre is chosen or when a Job Queue running the SDY UTPBI Customer Lifecycle Mgt. Codeunit is run. For pre existing customers the Customer Lifecycle Upgrade report from the Sales Cockpit Setup Card can be run to create entries in the Customer Lifecycle Log.
+
+- AppSource App - When the Refresh action on the Sales Cockpit Role Centre is chosen or when a Job Queue running the SDY UTPBI Customer Lifecycle Mgt. Codeunit is run, SD BI Sales Cockpit checks for first sales date versus the Sales Period and updates the customer to established in the Customer Lifecycle Log.
+
+- AppSource App - An action was surfaced in the Sales Cockpit Setup Card to run a report for initial analysis and stamp Dimension Code and Values, and Sales Period on legacy data.
+
+- AppSource App - Two new KPI cues were surfaced on the Sales Cockpit Role Centre for New and Established Customers.
+
+- AppSource App - The new Customer Lifecycle Log page was published as an OData page.
+
+- AppSource App - The new functionality was added to the licence controller check.
+
 ### 3.3.3
 
 #### Enhancements
