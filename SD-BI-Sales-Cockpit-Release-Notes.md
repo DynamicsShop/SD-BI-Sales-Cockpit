@@ -22,9 +22,17 @@
 
 - AppSource App - The new functionality was added to the licence controller check.
 
+- AppSource App - A change was made to the licence expiry notification. The logic for checking for expiry dates was reworked.
+
 - AppSource App - The Links in the About Page were updated.
 
 - AppSource App - The logo in App was updated to the new logo.
+
+- AppSource App - ToolTips were updated in the About, Product Activation, and Tenant Subscription pages.
+
+- AppSource App - Enhancements were made to the App Request Subscription page.
+
+- AppSource App - Additional phrases were added as search phrases for the SD Sales Cockpit pages.
 
 ### 3.3.3
 
